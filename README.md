@@ -1,3 +1,6 @@
+## Live Demo  
+[Visit the deployed site](https://blog-card-sample-structure.netlify.app/)
+
 # BlogCard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
